@@ -1,0 +1,1 @@
+This is a simple illustration for implementing an inventory management for a book store that prompts the user to input crucial details like title, number of copies as well as the price of the books stored in the database
